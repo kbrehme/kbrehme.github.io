@@ -48303,7 +48303,7 @@ E.Vb.prototype={
 $0:function(){P.jr("Test")},
 $S:1}
 F.yC.prototype={
-S:function(a,b){return new S.q4(new E.pA(null),"Flutter Demo",X.a4x(null,X.a4E()),null)}}
+S:function(a,b){return new S.q4(new E.pA(null),"Kaib Portfolio",X.a4x(null,X.a4E()),null)}}
 E.hJ.prototype={
 gk:function(a){return this.b},
 h:function(a,b){if(b>=this.b)throw H.a(P.bd(b,this,null,null,null))
